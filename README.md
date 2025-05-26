@@ -9,14 +9,14 @@ FilmSearch is a Python desktop application with a Tkinter GUI that enables searc
 The app displays popular movies for a selected genre, shows their overview, and provides a link to the trailer.
 
 ---
-## Используемые технологии / Technologies
+## Используемые технологии
 
 - Python — основной язык программирования проекта.  
 - Tkinter — библиотека для создания графического интерфейса (GUI).  
 - Requests — библиотека для выполнения HTTP-запросов к API.  
 - The Movie Database (TMDb) API — внешний API для получения данных о фильмах (жанры, описания, трейлеры).  
 - Webbrowser (стандартный модуль Python) — для открытия ссылок на трейлеры в браузере.
-
+## Technologies
 - Python — main programming language of the project.  
 - Tkinter — library for creating the graphical user interface (GUI).  
 - Requests — library for making HTTP requests to APIs.  
