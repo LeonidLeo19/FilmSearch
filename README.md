@@ -43,7 +43,7 @@ The app displays popular movies for a selected genre, shows their overview, and 
 
 1. Клонируйте репозиторий:
    git clone https://github.com/LeonidLeo19/FilmSearch.git
-   cd FilmSearch
+   &&   cd FilmSearch
    
 ---
 Установите зависимости (если используете виртуальное окружение):
