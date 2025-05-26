@@ -3,10 +3,10 @@
 ## Описание / Description
 
 FilmSearch — это настольное приложение на Python с графическим интерфейсом Tkinter, которое позволяет искать фильмы по жанрам с использованием API The Movie Database (TMDb).  
-Приложение отображает популярные фильмы выбранного жанра, показывает описание и даёт ссылку на трейлер.
+Приложение отображает популярные фильмы выбранного жанра, показывает описание и даёт ссылку на трейлер. Пример работы в папке "Images"
 
 FilmSearch is a Python desktop application with a Tkinter GUI that enables searching movies by genre using The Movie Database (TMDb) API.  
-The app displays popular movies for a selected genre, shows their overview, and provides a link to the trailer.
+The app displays popular movies for a selected genre, shows their overview, and provides a link to the trailer. Example output in the "Images" folder
 
 ---
 ## Используемые технологии
