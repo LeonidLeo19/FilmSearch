@@ -25,13 +25,13 @@ The app displays popular movies for a selected genre, shows their overview, and 
 
 ---
 
-## Особенности / Features
+## Особенности
 
 - Выбор жанра фильма  
 - Просмотр популярных фильмов выбранного жанра  
 - Отображение описания фильма  
 - Возможность открыть трейлер на YouTube
-
+## Features
 - Select movie genre  
 - Browse popular movies by genre  
 - View movie overview  
@@ -44,6 +44,7 @@ The app displays popular movies for a selected genre, shows their overview, and 
 1. Клонируйте репозиторий:
    git clone https://github.com/yourusername/FilmSearch.git
    cd FilmSearch
+   
 ---
 Установите зависимости (если используете виртуальное окружение):
 pip install requests
